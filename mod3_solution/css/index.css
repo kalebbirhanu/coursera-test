@@ -1,0 +1,33 @@
+nav {
+    background-color: gray;
+    margin: 0;
+}
+
+p {
+    
+    padding: 20px;
+}
+
+.para {
+    background-color: gray;
+   margin: 50px;
+    height: auto;
+    
+}
+#chicken {
+    text-align: center;
+    margin: 0px;
+}
+navbar.toggle {
+    margin: 20px;
+    font-size: 50px;
+}
+hr {
+    
+    border: 1px solid black;
+    width: 100%;
+}
+
+.input-group-addon {
+   border-collapse: collapse;
+}
